@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,25 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Boobo",
+      "dogBreed": "tooboo",
+      "id": 3
+    },
+    {
+      "dogName": "Boobo",
+      "dogBreed": "tooboo",
+      "id": 4
+    },
+    {
+      "dogName": "Boobo",
+      "dogBreed": "tooboo",
+      "id": 5
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +38,90 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "name": "lance",
+      "id": 8
+    },
+    {
+      "name": "lance",
+      "id": 9
+    },
+    {
+      "name": "lance",
+      "id": 10
+    },
+    {
+      "name": "lance",
+      "id": 11
+    },
+    {
+      "name": "lance",
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "email": "Job@yahoo.com",
+      "id": 15
+    },
+    {
+      "email": "Job@yahoo.com",
+      "id": 16
+    },
+    {
+      "name": "lance",
+      "id": 17
+    },
+    {
+      "name": "lance",
+      "id": 18
+    },
+    {
+      "name": "lance",
+      "email": "L@gmail.com",
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
